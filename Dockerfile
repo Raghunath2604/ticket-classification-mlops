@@ -27,7 +27,8 @@ COPY requirements.txt .
 # rest of the dependency list.
 RUN pip install --no-cache-dir --prefix=/install \
     --index-url https://download.pytorch.org/whl/cpu torch==2.13.0
-RUN pip install --no-cache-dir --prefix=/install -r requirements.txt
+RUN pip install --no-cache-dir --prefix=/install \
+    --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt
 
 # ---------- Stage 2: runtime ----------
 FROM python:3.12-slim AS runtime
