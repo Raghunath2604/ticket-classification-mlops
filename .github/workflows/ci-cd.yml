@@ -61,6 +61,8 @@ jobs:
       - name: Generate training data
         run: python src/generate_data.py
       - name: Fine-tune on the real base model
+        env:
+          MLFLOW_TRACKING_URI: ${{ secrets.MLFLOW_TRACKING_URI }}
         run: python -m src.train --model-name distilbert-base-uncased --epochs 3
       - name: Evaluate — fails the build if quality regresses
         run: python -m src.evaluate --model-path artifacts/model --data data/tickets_train.csv --min-accuracy 0.80
