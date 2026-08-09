@@ -12,7 +12,7 @@ on:
 
 env:
   PYTHON_VERSION: "3.12"
-  IMAGE_NAME: ghcr.io/${{ github.repository }}/ticket-classifier
+  IMAGE_NAME: ghcr.io/raghunath2604/ticket-classifier
 
 jobs:
   lint:
