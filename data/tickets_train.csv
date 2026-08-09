@@ -1,0 +1,601 @@
+text,label
+Just wanted to say the new export update looks great!,general
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+Just wanted to say the new reports update looks great!,general
+"The integrations page has been loading forever, it never finishes.",technical
+The invoice for May doesn't match what I was quoted.,billing
+The invoice for April doesn't match what I was quoted.,billing
+What are your support hours for the Enterprise plan?,general
+Is there a community forum where I can ask other users questions?,general
+"The settings page has been loading forever, it never finishes.",technical
+I was billed after cancelling my Pro subscription.,billing
+My username shows up wrong on the calendar page.,account
+My account got locked after too many login attempts.,account
+Uploads to messaging keep failing at around 80 percent.,technical
+Are there any webinars coming up about dashboard?,general
+I was billed after cancelling my Pro subscription.,billing
+I was billed after cancelling my Starter subscription.,billing
+"Thanks for the quick help yesterday, closing this ticket.",general
+The app crashes every time I try to open the integrations screen.,technical
+I was charged twice for my Pro subscription this month.,billing
+Uploads to analytics keep failing at around 80 percent.,technical
+The API returns a 404 Not Found when I call the analytics endpoint.,technical
+What's the difference between the Starter and enterprise plans?,general
+Are there any webinars coming up about calendar?,general
+I'm getting a null pointer error when I try to log in.,technical
+Uploads to settings keep failing at around 80 percent.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+"Please update my card on file, the current one expired.",billing
+Why did my subscription price change from $19.99 to $14.99?,billing
+"The export page has been loading forever, it never finishes.",technical
+Do you have a roadmap for upcoming messaging improvements?,general
+I want to delete my account and all associated data.,account
+Please transfer ownership of my workspace to a teammate.,account
+The API returns a null pointer when I call the billing endpoint.,technical
+I forgot my password and the reset email never arrives.,account
+Someone else may have accessed my account without permission.,account
+Can you explain the extra $19.99 fee on my latest invoice?,billing
+Push notifications for analytics stopped working after the update.,technical
+I was billed after cancelling my Pro subscription.,billing
+How do I provide feedback about the Basic pricing tiers?,general
+I want to downgrade from Team to save money.,billing
+Do you have a roadmap for upcoming reports improvements?,general
+Do you have a roadmap for upcoming analytics improvements?,general
+I need a refund for the Enterprise plan I cancelled last week.,billing
+I need to change the email linked to my account.,account
+"I can't update my profile picture, it keeps failing to upload.",account
+Can you merge my two accounts under one email address?,account
+Just wanted to say the new notifications update looks great!,general
+My payment failed but the app still shows I owe $9.99.,billing
+Uploads to export keep failing at around 80 percent.,technical
+I was charged twice for my Basic subscription this month.,billing
+My account got locked after too many login attempts.,account
+Someone else may have accessed my account without permission.,account
+"The dashboard page has been loading forever, it never finishes.",technical
+The API returns a 404 Not Found when I call the analytics endpoint.,technical
+Are there any webinars coming up about calendar?,general
+"I can't sync my data between devices, dashboard shows old info.",technical
+Can you point me to documentation for the export API?,general
+The mobile app freezes on the settings tab on Android.,technical
+"The integrations page has been loading forever, it never finishes.",technical
+Why did my subscription price change from $12.50 to $17.50?,billing
+I need to change the email linked to my account.,account
+I need to change the email linked to my account.,account
+Search in calendar returns no results even for exact matches.,technical
+Please transfer ownership of my workspace to a teammate.,account
+I'd like to suggest an improvement to the reports workflow.,general
+My account got locked after too many login attempts.,account
+How do I enable two-factor authentication on my account?,account
+Can you explain the extra $19.99 fee on my latest invoice?,billing
+What are your support hours for the Pro plan?,general
+I need a refund for the Starter plan I cancelled last week.,billing
+Can you merge my two accounts under one email address?,account
+I want to downgrade from Enterprise to save money.,billing
+"I can't sync my data between devices, analytics shows old info.",technical
+Are there any webinars coming up about export?,general
+Can you point me to documentation for the export API?,general
+My account got locked after too many login attempts.,account
+I was billed after cancelling my Team subscription.,billing
+Please transfer ownership of my workspace to a teammate.,account
+"The settings page has been loading forever, it never finishes.",technical
+I need a refund for the Pro plan I cancelled last week.,billing
+Can you merge my two accounts under one email address?,account
+"The calendar page has been loading forever, it never finishes.",technical
+I want to delete my account and all associated data.,account
+I forgot my password and the reset email never arrives.,account
+My payment failed but the app still shows I owe $49.00.,billing
+Search in reports returns no results even for exact matches.,technical
+I'm getting a timeout error when I try to log in.,technical
+Do you have a roadmap for upcoming reports improvements?,general
+Do you have a roadmap for upcoming reports improvements?,general
+Push notifications for analytics stopped working after the update.,technical
+Can you point me to documentation for the analytics API?,general
+I want to delete my account and all associated data.,account
+Is there a community forum where I can ask other users questions?,general
+Please transfer ownership of my workspace to a teammate.,account
+Can you point me to documentation for the notifications API?,general
+Someone else may have accessed my account without permission.,account
+I was charged twice for my Team subscription this month.,billing
+The mobile app freezes on the messaging tab on Android.,technical
+Can you explain the extra $12.50 fee on my latest invoice?,billing
+Uploads to export keep failing at around 80 percent.,technical
+Push notifications for billing stopped working after the update.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+My username shows up wrong on the analytics page.,account
+Are there any webinars coming up about dashboard?,general
+My account got locked after too many login attempts.,account
+I forgot my password and the reset email never arrives.,account
+My account got locked after too many login attempts.,account
+Can you point me to documentation for the messaging API?,general
+My payment failed but the app still shows I owe $19.99.,billing
+My payment failed but the app still shows I owe $12.50.,billing
+The invoice for March doesn't match what I was quoted.,billing
+I was charged twice for my Pro subscription this month.,billing
+Are there any webinars coming up about messaging?,general
+"Please update my card on file, the current one expired.",billing
+Is there a discount available for annual Team billing?,billing
+My username shows up wrong on the calendar page.,account
+Please transfer ownership of my workspace to a teammate.,account
+Uploads to settings keep failing at around 80 percent.,technical
+Can you explain the extra $12.50 fee on my latest invoice?,billing
+"The reports page has been loading forever, it never finishes.",technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+I'd like to suggest an improvement to the analytics workflow.,general
+Just wanted to say the new reports update looks great!,general
+Why did my subscription price change from $9.99 to $24.99?,billing
+How do I provide feedback about the Team pricing tiers?,general
+Is there a discount available for annual Basic billing?,billing
+I need a refund for the Basic plan I cancelled last week.,billing
+Push notifications for reports stopped working after the update.,technical
+Push notifications for messaging stopped working after the update.,technical
+I want to delete my account and all associated data.,account
+The API returns a null pointer when I call the notifications endpoint.,technical
+Push notifications for billing stopped working after the update.,technical
+Someone else may have accessed my account without permission.,account
+I need a refund for the Team plan I cancelled last week.,billing
+The mobile app freezes on the export tab on Android.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+Are there any webinars coming up about calendar?,general
+How do I provide feedback about the Starter pricing tiers?,general
+Dark mode breaks the layout on the analytics dashboard.,technical
+Can you point me to documentation for the reports API?,general
+I was charged twice for my Pro subscription this month.,billing
+I'm getting a timeout error when I try to log in.,technical
+The API returns a 404 Not Found when I call the billing endpoint.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+Dark mode breaks the layout on the export dashboard.,technical
+I need a refund for the Basic plan I cancelled last week.,billing
+Just wanted to say the new billing update looks great!,general
+Are there any webinars coming up about notifications?,general
+How do I provide feedback about the Pro pricing tiers?,general
+"Please update my card on file, the current one expired.",billing
+Is there a discount available for annual Enterprise billing?,billing
+Can you point me to documentation for the dashboard API?,general
+My username shows up wrong on the messaging page.,account
+My account got locked after too many login attempts.,account
+Can you explain the extra $29.99 fee on my latest invoice?,billing
+I was billed after cancelling my Enterprise subscription.,billing
+I forgot my password and the reset email never arrives.,account
+Can you point me to documentation for the calendar API?,general
+"I can't sync my data between devices, export shows old info.",technical
+My payment failed but the app still shows I owe $19.99.,billing
+I want to delete my account and all associated data.,account
+"I can't update my profile picture, it keeps failing to upload.",account
+I need a refund for the Enterprise plan I cancelled last week.,billing
+Search in notifications returns no results even for exact matches.,technical
+I want to downgrade from Enterprise to save money.,billing
+What's the difference between the Enterprise and enterprise plans?,general
+I forgot my password and the reset email never arrives.,account
+What's the difference between the Team and enterprise plans?,general
+Do you have a roadmap for upcoming analytics improvements?,general
+"Please update my card on file, the current one expired.",billing
+I want to delete my account and all associated data.,account
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+I need a refund for the Pro plan I cancelled last week.,billing
+My payment failed but the app still shows I owe $12.50.,billing
+Is there a community forum where I can ask other users questions?,general
+I want to downgrade from Team to save money.,billing
+The mobile app freezes on the notifications tab on Android.,technical
+I need a refund for the Team plan I cancelled last week.,billing
+Someone else may have accessed my account without permission.,account
+I need a refund for the Enterprise plan I cancelled last week.,billing
+The API returns a 500 Internal Server when I call the export endpoint.,technical
+Can you point me to documentation for the messaging API?,general
+Just wanted to say the new settings update looks great!,general
+I want to delete my account and all associated data.,account
+Can you point me to documentation for the messaging API?,general
+The mobile app freezes on the analytics tab on Android.,technical
+The mobile app freezes on the billing tab on Android.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+Can you explain the extra $19.99 fee on my latest invoice?,billing
+I want to delete my account and all associated data.,account
+Why did my subscription price change from $49.00 to $39.99?,billing
+Are there any webinars coming up about dashboard?,general
+Are there any webinars coming up about dashboard?,general
+Do you have a roadmap for upcoming export improvements?,general
+"Thanks for the quick help yesterday, closing this ticket.",general
+Someone else may have accessed my account without permission.,account
+Uploads to analytics keep failing at around 80 percent.,technical
+Dark mode breaks the layout on the messaging dashboard.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+My username shows up wrong on the integrations page.,account
+Push notifications for messaging stopped working after the update.,technical
+Is there a community forum where I can ask other users questions?,general
+Dark mode breaks the layout on the reports dashboard.,technical
+Why did my subscription price change from $9.99 to $59.00?,billing
+I'm getting a 403 Forbidden error when I try to log in.,technical
+Are there any webinars coming up about export?,general
+Dark mode breaks the layout on the notifications dashboard.,technical
+Uploads to billing keep failing at around 80 percent.,technical
+Are there any webinars coming up about settings?,general
+The invoice for March doesn't match what I was quoted.,billing
+I'm getting a null pointer error when I try to log in.,technical
+I was billed after cancelling my Pro subscription.,billing
+The API returns a 404 Not Found when I call the messaging endpoint.,technical
+My payment failed but the app still shows I owe $9.99.,billing
+What are your support hours for the Starter plan?,general
+"Please update my card on file, the current one expired.",billing
+Are there any webinars coming up about notifications?,general
+How do I enable two-factor authentication on my account?,account
+Is there a discount available for annual Basic billing?,billing
+I'd like to suggest an improvement to the notifications workflow.,general
+I was billed after cancelling my Starter subscription.,billing
+"I can't update my profile picture, it keeps failing to upload.",account
+I want to downgrade from Starter to save money.,billing
+I need a refund for the Pro plan I cancelled last week.,billing
+Just wanted to say the new calendar update looks great!,general
+How do I enable two-factor authentication on my account?,account
+What's the difference between the Team and enterprise plans?,general
+My account got locked after too many login attempts.,account
+The mobile app freezes on the messaging tab on Android.,technical
+I'm getting a 404 Not Found error when I try to log in.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+The API returns a 403 Forbidden when I call the analytics endpoint.,technical
+Can you explain the extra $49.00 fee on my latest invoice?,billing
+Just wanted to say the new export update looks great!,general
+Can you merge my two accounts under one email address?,account
+I was billed after cancelling my Pro subscription.,billing
+"Please update my card on file, the current one expired.",billing
+The API returns a 404 Not Found when I call the messaging endpoint.,technical
+I'm getting a timeout error when I try to log in.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+My username shows up wrong on the dashboard page.,account
+I want to downgrade from Starter to save money.,billing
+Can you point me to documentation for the notifications API?,general
+Dark mode breaks the layout on the calendar dashboard.,technical
+I want to delete my account and all associated data.,account
+What's the difference between the Starter and enterprise plans?,general
+Just wanted to say the new export update looks great!,general
+Is there a community forum where I can ask other users questions?,general
+Can you merge my two accounts under one email address?,account
+I was billed after cancelling my Pro subscription.,billing
+"The notifications page has been loading forever, it never finishes.",technical
+The API returns a null pointer when I call the notifications endpoint.,technical
+Push notifications for notifications stopped working after the update.,technical
+My account got locked after too many login attempts.,account
+Are there any webinars coming up about settings?,general
+I want to delete my account and all associated data.,account
+The app crashes every time I try to open the dashboard screen.,technical
+Do you have a roadmap for upcoming integrations improvements?,general
+I was billed after cancelling my Basic subscription.,billing
+Do you have a roadmap for upcoming calendar improvements?,general
+"Thanks for the quick help yesterday, closing this ticket.",general
+"Thanks for the quick help yesterday, closing this ticket.",general
+What are your support hours for the Team plan?,general
+The invoice for March doesn't match what I was quoted.,billing
+Just wanted to say the new export update looks great!,general
+What's the difference between the Pro and enterprise plans?,general
+"I can't update my profile picture, it keeps failing to upload.",account
+The app crashes every time I try to open the dashboard screen.,technical
+"Please update my card on file, the current one expired.",billing
+Push notifications for billing stopped working after the update.,technical
+I'm getting a 500 Internal Server error when I try to log in.,technical
+I need a refund for the Enterprise plan I cancelled last week.,billing
+"I can't update my profile picture, it keeps failing to upload.",account
+The app crashes every time I try to open the dashboard screen.,technical
+I'm getting a null pointer error when I try to log in.,technical
+"The billing page has been loading forever, it never finishes.",technical
+My account got locked after too many login attempts.,account
+How do I enable two-factor authentication on my account?,account
+Why did my subscription price change from $49.00 to $39.99?,billing
+I want to delete my account and all associated data.,account
+Are there any webinars coming up about dashboard?,general
+My account got locked after too many login attempts.,account
+"I can't sync my data between devices, notifications shows old info.",technical
+I'd like to suggest an improvement to the dashboard workflow.,general
+Is there a discount available for annual Team billing?,billing
+I need to change the email linked to my account.,account
+How do I provide feedback about the Enterprise pricing tiers?,general
+Are there any webinars coming up about export?,general
+I need a refund for the Basic plan I cancelled last week.,billing
+Search in calendar returns no results even for exact matches.,technical
+I was charged twice for my Starter subscription this month.,billing
+Just wanted to say the new analytics update looks great!,general
+Are there any webinars coming up about calendar?,general
+Dark mode breaks the layout on the messaging dashboard.,technical
+I was billed after cancelling my Basic subscription.,billing
+Can you point me to documentation for the integrations API?,general
+"The settings page has been loading forever, it never finishes.",technical
+What's the difference between the Pro and enterprise plans?,general
+What are your support hours for the Team plan?,general
+"The analytics page has been loading forever, it never finishes.",technical
+I need a refund for the Basic plan I cancelled last week.,billing
+My username shows up wrong on the messaging page.,account
+How do I enable two-factor authentication on my account?,account
+"I can't update my profile picture, it keeps failing to upload.",account
+I'm getting a null pointer error when I try to log in.,technical
+Someone else may have accessed my account without permission.,account
+Can you merge my two accounts under one email address?,account
+Search in analytics returns no results even for exact matches.,technical
+"The reports page has been loading forever, it never finishes.",technical
+"I can't update my profile picture, it keeps failing to upload.",account
+Search in billing returns no results even for exact matches.,technical
+Dark mode breaks the layout on the settings dashboard.,technical
+What are your support hours for the Basic plan?,general
+What are your support hours for the Basic plan?,general
+"The notifications page has been loading forever, it never finishes.",technical
+Uploads to integrations keep failing at around 80 percent.,technical
+Can you point me to documentation for the dashboard API?,general
+I'd like to suggest an improvement to the analytics workflow.,general
+My username shows up wrong on the integrations page.,account
+Why did my subscription price change from $9.99 to $17.50?,billing
+Can you point me to documentation for the billing API?,general
+"I can't update my profile picture, it keeps failing to upload.",account
+Push notifications for reports stopped working after the update.,technical
+The invoice for June doesn't match what I was quoted.,billing
+I want to downgrade from Team to save money.,billing
+"I can't update my profile picture, it keeps failing to upload.",account
+"The integrations page has been loading forever, it never finishes.",technical
+Can you merge my two accounts under one email address?,account
+Search in settings returns no results even for exact matches.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+"The calendar page has been loading forever, it never finishes.",technical
+How do I enable two-factor authentication on my account?,account
+Why did my subscription price change from $19.99 to $24.99?,billing
+My account got locked after too many login attempts.,account
+Push notifications for calendar stopped working after the update.,technical
+My username shows up wrong on the settings page.,account
+The mobile app freezes on the messaging tab on Android.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+Someone else may have accessed my account without permission.,account
+How do I provide feedback about the Starter pricing tiers?,general
+The API returns a null pointer when I call the export endpoint.,technical
+I'm getting a timeout error when I try to log in.,technical
+Just wanted to say the new analytics update looks great!,general
+I need to change the email linked to my account.,account
+The app crashes every time I try to open the calendar screen.,technical
+My account got locked after too many login attempts.,account
+I'm getting a timeout error when I try to log in.,technical
+"I can't sync my data between devices, export shows old info.",technical
+Do you have a roadmap for upcoming messaging improvements?,general
+How do I provide feedback about the Pro pricing tiers?,general
+The API returns a null pointer when I call the calendar endpoint.,technical
+The API returns a timeout when I call the calendar endpoint.,technical
+How do I enable two-factor authentication on my account?,account
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+Can you point me to documentation for the messaging API?,general
+"I can't update my profile picture, it keeps failing to upload.",account
+How do I provide feedback about the Pro pricing tiers?,general
+"I can't sync my data between devices, dashboard shows old info.",technical
+Can you merge my two accounts under one email address?,account
+I need a refund for the Pro plan I cancelled last week.,billing
+My username shows up wrong on the settings page.,account
+How do I provide feedback about the Team pricing tiers?,general
+I was billed after cancelling my Starter subscription.,billing
+I was charged twice for my Starter subscription this month.,billing
+How do I enable two-factor authentication on my account?,account
+My payment failed but the app still shows I owe $49.00.,billing
+"Please update my card on file, the current one expired.",billing
+"Please update my card on file, the current one expired.",billing
+Someone else may have accessed my account without permission.,account
+I was charged twice for my Team subscription this month.,billing
+The invoice for June doesn't match what I was quoted.,billing
+How do I enable two-factor authentication on my account?,account
+Why did my subscription price change from $19.99 to $24.99?,billing
+Someone else may have accessed my account without permission.,account
+How do I provide feedback about the Enterprise pricing tiers?,general
+"Thanks for the quick help yesterday, closing this ticket.",general
+Do you have a roadmap for upcoming settings improvements?,general
+I want to downgrade from Enterprise to save money.,billing
+Do you have a roadmap for upcoming settings improvements?,general
+I need a refund for the Enterprise plan I cancelled last week.,billing
+The API returns a 404 Not Found when I call the notifications endpoint.,technical
+I need a refund for the Starter plan I cancelled last week.,billing
+Is there a discount available for annual Enterprise billing?,billing
+"I can't sync my data between devices, settings shows old info.",technical
+Why did my subscription price change from $49.00 to $24.99?,billing
+I was charged twice for my Basic subscription this month.,billing
+Do you have a roadmap for upcoming reports improvements?,general
+Is there a discount available for annual Starter billing?,billing
+I was billed after cancelling my Enterprise subscription.,billing
+I need to change the email linked to my account.,account
+I forgot my password and the reset email never arrives.,account
+My account got locked after too many login attempts.,account
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+I want to delete my account and all associated data.,account
+Do you have a roadmap for upcoming messaging improvements?,general
+How do I enable two-factor authentication on my account?,account
+Can you explain the extra $12.50 fee on my latest invoice?,billing
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+Is there a discount available for annual Enterprise billing?,billing
+What are your support hours for the Basic plan?,general
+My payment failed but the app still shows I owe $29.99.,billing
+The app crashes every time I try to open the notifications screen.,technical
+I forgot my password and the reset email never arrives.,account
+"I can't sync my data between devices, calendar shows old info.",technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+Can you merge my two accounts under one email address?,account
+Someone else may have accessed my account without permission.,account
+Uploads to export keep failing at around 80 percent.,technical
+Can you merge my two accounts under one email address?,account
+Please transfer ownership of my workspace to a teammate.,account
+The mobile app freezes on the integrations tab on Android.,technical
+"Please update my card on file, the current one expired.",billing
+"I can't update my profile picture, it keeps failing to upload.",account
+Are there any webinars coming up about settings?,general
+The invoice for March doesn't match what I was quoted.,billing
+My payment failed but the app still shows I owe $9.99.,billing
+Dark mode breaks the layout on the notifications dashboard.,technical
+How do I enable two-factor authentication on my account?,account
+"Thanks for the quick help yesterday, closing this ticket.",general
+What's the difference between the Enterprise and enterprise plans?,general
+Can you merge my two accounts under one email address?,account
+"I can't sync my data between devices, settings shows old info.",technical
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+Someone else may have accessed my account without permission.,account
+I want to delete my account and all associated data.,account
+What are your support hours for the Enterprise plan?,general
+"I can't sync my data between devices, calendar shows old info.",technical
+Push notifications for integrations stopped working after the update.,technical
+My username shows up wrong on the billing page.,account
+My username shows up wrong on the settings page.,account
+I need to change the email linked to my account.,account
+Uploads to calendar keep failing at around 80 percent.,technical
+Is there a community forum where I can ask other users questions?,general
+The mobile app freezes on the analytics tab on Android.,technical
+Why did my subscription price change from $12.50 to $17.50?,billing
+Dark mode breaks the layout on the dashboard dashboard.,technical
+"Please update my card on file, the current one expired.",billing
+Why did my subscription price change from $12.50 to $59.00?,billing
+"Thanks for the quick help yesterday, closing this ticket.",general
+Uploads to billing keep failing at around 80 percent.,technical
+"I can't sync my data between devices, integrations shows old info.",technical
+The invoice for last month doesn't match what I was quoted.,billing
+I was billed after cancelling my Team subscription.,billing
+The invoice for April doesn't match what I was quoted.,billing
+Is there a discount available for annual Enterprise billing?,billing
+Push notifications for integrations stopped working after the update.,technical
+What's the difference between the Basic and enterprise plans?,general
+Push notifications for integrations stopped working after the update.,technical
+Please transfer ownership of my workspace to a teammate.,account
+Do you have a roadmap for upcoming settings improvements?,general
+"Thanks for the quick help yesterday, closing this ticket.",general
+Can you merge my two accounts under one email address?,account
+The invoice for April doesn't match what I was quoted.,billing
+My username shows up wrong on the reports page.,account
+I was charged twice for my Enterprise subscription this month.,billing
+I want to delete my account and all associated data.,account
+Push notifications for reports stopped working after the update.,technical
+The app crashes every time I try to open the messaging screen.,technical
+What's the difference between the Team and enterprise plans?,general
+How do I enable two-factor authentication on my account?,account
+Is there a discount available for annual Team billing?,billing
+"The analytics page has been loading forever, it never finishes.",technical
+My payment failed but the app still shows I owe $29.99.,billing
+Just wanted to say the new reports update looks great!,general
+Can you explain the extra $19.99 fee on my latest invoice?,billing
+The app crashes every time I try to open the notifications screen.,technical
+I forgot my password and the reset email never arrives.,account
+Is there a community forum where I can ask other users questions?,general
+The app crashes every time I try to open the notifications screen.,technical
+The API returns a 404 Not Found when I call the messaging endpoint.,technical
+Are there any webinars coming up about settings?,general
+"Thanks for the quick help yesterday, closing this ticket.",general
+I'd like to suggest an improvement to the export workflow.,general
+How do I enable two-factor authentication on my account?,account
+I'm getting a 500 Internal Server error when I try to log in.,technical
+I'd like to suggest an improvement to the calendar workflow.,general
+Why did my subscription price change from $29.99 to $14.99?,billing
+"The settings page has been loading forever, it never finishes.",technical
+Just wanted to say the new integrations update looks great!,general
+I need a refund for the Basic plan I cancelled last week.,billing
+The app crashes every time I try to open the reports screen.,technical
+Please transfer ownership of my workspace to a teammate.,account
+My payment failed but the app still shows I owe $29.99.,billing
+The mobile app freezes on the billing tab on Android.,technical
+The app crashes every time I try to open the integrations screen.,technical
+What's the difference between the Starter and enterprise plans?,general
+How do I enable two-factor authentication on my account?,account
+What are your support hours for the Team plan?,general
+Can you merge my two accounts under one email address?,account
+"I can't update my profile picture, it keeps failing to upload.",account
+My username shows up wrong on the billing page.,account
+Please transfer ownership of my workspace to a teammate.,account
+I need a refund for the Starter plan I cancelled last week.,billing
+My account got locked after too many login attempts.,account
+I was billed after cancelling my Basic subscription.,billing
+I was billed after cancelling my Starter subscription.,billing
+Can you point me to documentation for the settings API?,general
+The mobile app freezes on the billing tab on Android.,technical
+I want to downgrade from Enterprise to save money.,billing
+My account got locked after too many login attempts.,account
+Push notifications for dashboard stopped working after the update.,technical
+How do I enable two-factor authentication on my account?,account
+My account got locked after too many login attempts.,account
+Search in dashboard returns no results even for exact matches.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+Is there a community forum where I can ask other users questions?,general
+Are there any webinars coming up about reports?,general
+Just wanted to say the new integrations update looks great!,general
+My username shows up wrong on the notifications page.,account
+What's the difference between the Enterprise and enterprise plans?,general
+I want to downgrade from Pro to save money.,billing
+Dark mode breaks the layout on the calendar dashboard.,technical
+I'm getting a 403 Forbidden error when I try to log in.,technical
+I'd like to suggest an improvement to the messaging workflow.,general
+Please transfer ownership of my workspace to a teammate.,account
+"Please update my card on file, the current one expired.",billing
+Uploads to dashboard keep failing at around 80 percent.,technical
+I'd like to suggest an improvement to the calendar workflow.,general
+Please transfer ownership of my workspace to a teammate.,account
+"I can't update my profile picture, it keeps failing to upload.",account
+Are there any webinars coming up about export?,general
+How do I provide feedback about the Pro pricing tiers?,general
+Why did my subscription price change from $49.00 to $17.50?,billing
+I need to change the email linked to my account.,account
+My payment failed but the app still shows I owe $12.50.,billing
+I'd like to suggest an improvement to the reports workflow.,general
+Someone else may have accessed my account without permission.,account
+I need a refund for the Pro plan I cancelled last week.,billing
+I was charged twice for my Team subscription this month.,billing
+I was charged twice for my Pro subscription this month.,billing
+Just wanted to say the new integrations update looks great!,general
+Push notifications for notifications stopped working after the update.,technical
+Search in integrations returns no results even for exact matches.,technical
+I want to delete my account and all associated data.,account
+Uploads to integrations keep failing at around 80 percent.,technical
+"The settings page has been loading forever, it never finishes.",technical
+Can you point me to documentation for the calendar API?,general
+Is there a discount available for annual Enterprise billing?,billing
+Is there a discount available for annual Pro billing?,billing
+The API returns a 403 Forbidden when I call the reports endpoint.,technical
+My account got locked after too many login attempts.,account
+I want to downgrade from Pro to save money.,billing
+Is there a community forum where I can ask other users questions?,general
+Someone else may have accessed my account without permission.,account
+How do I provide feedback about the Enterprise pricing tiers?,general
+I want to delete my account and all associated data.,account
+Search in messaging returns no results even for exact matches.,technical
+I want to downgrade from Team to save money.,billing
+Are there any webinars coming up about dashboard?,general
+I want to delete my account and all associated data.,account
+"I can't sync my data between devices, analytics shows old info.",technical
+I want to delete my account and all associated data.,account
+Do you have a roadmap for upcoming reports improvements?,general
+The API returns a 403 Forbidden when I call the messaging endpoint.,technical
+How do I enable two-factor authentication on my account?,account
+What's the difference between the Enterprise and enterprise plans?,general
+Can you merge my two accounts under one email address?,account
+Can you point me to documentation for the billing API?,general
+I was charged twice for my Pro subscription this month.,billing
+Search in dashboard returns no results even for exact matches.,technical
+Are there any webinars coming up about integrations?,general
+How do I provide feedback about the Team pricing tiers?,general
+What's the difference between the Enterprise and enterprise plans?,general
+I was billed after cancelling my Starter subscription.,billing
+The mobile app freezes on the export tab on Android.,technical
+Is there a community forum where I can ask other users questions?,general
+The API returns a 403 Forbidden when I call the integrations endpoint.,technical
+How do I provide feedback about the Basic pricing tiers?,general
+Search in messaging returns no results even for exact matches.,technical
+Is there a discount available for annual Pro billing?,billing
+What's the difference between the Enterprise and enterprise plans?,general
+Dark mode breaks the layout on the reports dashboard.,technical
+I forgot my password and the reset email never arrives.,account
+"Please update my card on file, the current one expired.",billing
+The mobile app freezes on the export tab on Android.,technical
+I'm getting a 404 Not Found error when I try to log in.,technical
+Uploads to settings keep failing at around 80 percent.,technical
+How do I enable two-factor authentication on my account?,account
+Do you have a roadmap for upcoming integrations improvements?,general
+"The settings page has been loading forever, it never finishes.",technical
+I need a refund for the Basic plan I cancelled last week.,billing
+I need to change the email linked to my account.,account
+Can you merge my two accounts under one email address?,account
+Can you merge my two accounts under one email address?,account
+I forgot my password and the reset email never arrives.,account
+Is there a discount available for annual Pro billing?,billing
+My account got locked after too many login attempts.,account
+My payment failed but the app still shows I owe $19.99.,billing
+Can you explain the extra $49.00 fee on my latest invoice?,billing
+I forgot my password and the reset email never arrives.,account
+The mobile app freezes on the billing tab on Android.,technical
+Can you point me to documentation for the billing API?,general
+"Please update my card on file, the current one expired.",billing
+Can you explain the extra $12.50 fee on my latest invoice?,billing
+"I can't update my profile picture, it keeps failing to upload.",account
+I need a refund for the Pro plan I cancelled last week.,billing
+The mobile app freezes on the settings tab on Android.,technical
+The API returns a 500 Internal Server when I call the export endpoint.,technical
+Push notifications for settings stopped working after the update.,technical
+I need a refund for the Starter plan I cancelled last week.,billing

@@ -1,0 +1,49 @@
+# Two ways to run the api service, both supported by the same image:
+#   1. Default (what's below): MODEL_SOURCE=local — the image has the
+#      fine-tuned model baked in at build time (see Dockerfile). Simplest
+#      path, good for a single-artifact "the image IS the deployment"
+#      workflow, which is what CI builds and ships to EC2.
+#   2. MODEL_SOURCE=registry — the api container instead pulls whichever
+#      model version is tagged "production" from the mlflow service below
+#      at container startup. Decouples "ship new app code" from "ship a
+#      newly trained model": rebuild the image only when src/api.py
+#      changes; promote a new model in the registry without touching the
+#      image at all. Switch to this by uncommenting the env block.
+services:
+  mlflow:
+    image: python:3.12-slim
+    container_name: ticket-classifier-mlflow
+    working_dir: /mlflow
+    volumes:
+      - mlflow-data:/mlflow
+    ports:
+      - "5000:5000"
+    command: >
+      bash -c "pip install --no-cache-dir mlflow==3.15.1 &&
+               mlflow server
+               --backend-store-uri sqlite:///mlflow/mlflow.db
+               --default-artifact-root /mlflow/artifacts
+               --host 0.0.0.0 --port 5000"
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:5000')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build: .
+    container_name: ticket-classifier-api
+    ports:
+      - "8000:8000"
+    environment:
+      MODEL_SOURCE: local
+      # --- uncomment to serve from the MLflow registry instead ---
+      # MODEL_SOURCE: registry
+      # MLFLOW_TRACKING_URI: http://mlflow:5000
+      # MODEL_REGISTRY_ALIAS: production
+    depends_on:
+      - mlflow
+    restart: unless-stopped
+
+volumes:
+  mlflow-data:

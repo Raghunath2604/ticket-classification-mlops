@@ -1,0 +1,382 @@
+text,label
+Push notifications for notifications stopped working after the update.,technical
+"Since the redesign, the notifications tab is completely unresponsive on iOS 18.",technical
+"Since the redesign, the dashboard tab is completely unresponsive on iOS 18.",technical
+Are there any webinars coming up about reports?,general
+My username shows up wrong on the analytics page.,account
+Can you explain the extra $9.99 fee on my latest invoice?,billing
+How do I enable two-factor authentication on my account?,account
+Dark mode breaks the layout on the dashboard dashboard.,technical
+Someone else may have accessed my account without permission.,account
+I want to delete my account and all associated data.,account
+Push notifications for integrations stopped working after the update.,technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+Uploads to notifications keep failing at around 80 percent.,technical
+I want to downgrade from Starter to save money.,billing
+I forgot my password and the reset email never arrives.,account
+Push notifications for integrations stopped working after the update.,technical
+"Since the redesign, the calendar tab is completely unresponsive on iOS 18.",technical
+Search in calendar returns no results even for exact matches.,technical
+I want to downgrade from Enterprise to save money.,billing
+I want to delete my account and all associated data.,account
+Can you point me to documentation for the integrations API?,general
+I was charged twice for my Basic subscription this month.,billing
+I'm getting a 403 Forbidden error when I try to log in.,technical
+How do I enable two-factor authentication on my account?,account
+Are there any webinars coming up about calendar?,general
+The API returns a 500 Internal Server when I call the reports endpoint.,technical
+I'm getting a 404 Not Found error when I try to log in.,technical
+What are your support hours for the Starter plan?,general
+Search in integrations returns no results even for exact matches.,technical
+Push notifications for settings stopped working after the update.,technical
+The API returns a timeout when I call the calendar endpoint.,technical
+"The messaging page has been loading forever, it never finishes.",technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+Uploads to calendar keep failing at around 80 percent.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+I'm getting a timeout error when I try to log in.,technical
+Can you merge my two accounts under one email address?,account
+"Please update my card on file, the current one expired.",billing
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+I forgot my password and the reset email never arrives.,account
+"I can't sync my data between devices, settings shows old info.",technical
+My account got locked after too many login attempts.,account
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+I want to delete my account and all associated data.,account
+"Since the redesign, the billing tab is completely unresponsive on iOS 18.",technical
+Is there a community forum where I can ask other users questions?,general
+Why did my subscription price change from $19.99 to $59.00?,billing
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+My account got locked after too many login attempts.,account
+"Since the redesign, the reports tab is completely unresponsive on iOS 18.",technical
+The API returns a null pointer when I call the analytics endpoint.,technical
+Can you merge my two accounts under one email address?,account
+What are your support hours for the Enterprise plan?,general
+I want to downgrade from Basic to save money.,billing
+What's the difference between the Team and enterprise plans?,general
+I was billed after cancelling my Enterprise subscription.,billing
+"I can't sync my data between devices, reports shows old info.",technical
+The mobile app freezes on the export tab on Android.,technical
+The mobile app freezes on the settings tab on Android.,technical
+"Since the redesign, the export tab is completely unresponsive on iOS 18.",technical
+My account got locked after too many login attempts.,account
+Please transfer ownership of my workspace to a teammate.,account
+I was billed after cancelling my Enterprise subscription.,billing
+Search in integrations returns no results even for exact matches.,technical
+What's the difference between the Starter and enterprise plans?,general
+My payment failed but the app still shows I owe $12.50.,billing
+Uploads to calendar keep failing at around 80 percent.,technical
+The app crashes every time I try to open the analytics screen.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+"The calendar page has been loading forever, it never finishes.",technical
+Push notifications for dashboard stopped working after the update.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+"The reports page has been loading forever, it never finishes.",technical
+I need a refund for the Enterprise plan I cancelled last week.,billing
+"I can't sync my data between devices, messaging shows old info.",technical
+I'm getting a 500 Internal Server error when I try to log in.,technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+The API returns a 403 Forbidden when I call the export endpoint.,technical
+"The messaging page has been loading forever, it never finishes.",technical
+The mobile app freezes on the messaging tab on Android.,technical
+I need a refund for the Enterprise plan I cancelled last week.,billing
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+Dark mode breaks the layout on the messaging dashboard.,technical
+Push notifications for notifications stopped working after the update.,technical
+"I can't sync my data between devices, analytics shows old info.",technical
+Dark mode breaks the layout on the notifications dashboard.,technical
+"The integrations page has been loading forever, it never finishes.",technical
+I need to change the email linked to my account.,account
+Search in messaging returns no results even for exact matches.,technical
+Uploads to analytics keep failing at around 80 percent.,technical
+How do I provide feedback about the Enterprise pricing tiers?,general
+Search in messaging returns no results even for exact matches.,technical
+Can you explain the extra $19.99 fee on my latest invoice?,billing
+Dark mode breaks the layout on the messaging dashboard.,technical
+The mobile app freezes on the export tab on Android.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+I want to delete my account and all associated data.,account
+The API returns a null pointer when I call the notifications endpoint.,technical
+Do you have a roadmap for upcoming export improvements?,general
+Dark mode breaks the layout on the reports dashboard.,technical
+"I can't sync my data between devices, export shows old info.",technical
+My username shows up wrong on the messaging page.,account
+I need to change the email linked to my account.,account
+Dark mode breaks the layout on the calendar dashboard.,technical
+My account got locked after too many login attempts.,account
+I'm getting a 500 Internal Server error when I try to log in.,technical
+The API returns a timeout when I call the dashboard endpoint.,technical
+Search in messaging returns no results even for exact matches.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+"I can't sync my data between devices, analytics shows old info.",technical
+"I can't sync my data between devices, analytics shows old info.",technical
+Push notifications for dashboard stopped working after the update.,technical
+I want to delete my account and all associated data.,account
+Dark mode breaks the layout on the calendar dashboard.,technical
+What's the difference between the Pro and enterprise plans?,general
+Uploads to integrations keep failing at around 80 percent.,technical
+I need a refund for the Pro plan I cancelled last week.,billing
+Please transfer ownership of my workspace to a teammate.,account
+The API returns a 500 Internal Server when I call the reports endpoint.,technical
+"Since the redesign, the dashboard tab is completely unresponsive on iOS 18.",technical
+"I can't sync my data between devices, calendar shows old info.",technical
+The app crashes every time I try to open the messaging screen.,technical
+What are your support hours for the Starter plan?,general
+I'm getting a 403 Forbidden error when I try to log in.,technical
+Is there a discount available for annual Basic billing?,billing
+The app crashes every time I try to open the settings screen.,technical
+Dark mode breaks the layout on the messaging dashboard.,technical
+Do you have a roadmap for upcoming integrations improvements?,general
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+My payment failed but the app still shows I owe $49.00.,billing
+The app crashes every time I try to open the analytics screen.,technical
+Someone else may have accessed my account without permission.,account
+The API returns a 500 Internal Server when I call the calendar endpoint.,technical
+My account got locked after too many login attempts.,account
+I'm getting a 404 Not Found error when I try to log in.,technical
+Why did my subscription price change from $9.99 to $24.99?,billing
+"Since the redesign, the integrations tab is completely unresponsive on iOS 18.",technical
+I need a refund for the Basic plan I cancelled last week.,billing
+Is there a community forum where I can ask other users questions?,general
+Can you merge my two accounts under one email address?,account
+"The export page has been loading forever, it never finishes.",technical
+I need to change the email linked to my account.,account
+I was billed after cancelling my Basic subscription.,billing
+Search in calendar returns no results even for exact matches.,technical
+Are there any webinars coming up about calendar?,general
+What's the difference between the Enterprise and enterprise plans?,general
+The API returns a 500 Internal Server when I call the billing endpoint.,technical
+Please transfer ownership of my workspace to a teammate.,account
+Search in reports returns no results even for exact matches.,technical
+Dark mode breaks the layout on the integrations dashboard.,technical
+I forgot my password and the reset email never arrives.,account
+Dark mode breaks the layout on the dashboard dashboard.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+Dark mode breaks the layout on the integrations dashboard.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+The API returns a 404 Not Found when I call the calendar endpoint.,technical
+Search in dashboard returns no results even for exact matches.,technical
+Is there a community forum where I can ask other users questions?,general
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+I'm getting a 500 Internal Server error when I try to log in.,technical
+Are there any webinars coming up about settings?,general
+I'd like to suggest an improvement to the export workflow.,general
+Search in analytics returns no results even for exact matches.,technical
+"I can't sync my data between devices, settings shows old info.",technical
+Push notifications for reports stopped working after the update.,technical
+Are there any webinars coming up about dashboard?,general
+"The notifications page has been loading forever, it never finishes.",technical
+Push notifications for export stopped working after the update.,technical
+The API returns a 404 Not Found when I call the export endpoint.,technical
+I want to delete my account and all associated data.,account
+I need a refund for the Basic plan I cancelled last week.,billing
+What are your support hours for the Enterprise plan?,general
+Uploads to messaging keep failing at around 80 percent.,technical
+Dark mode breaks the layout on the settings dashboard.,technical
+The API returns a null pointer when I call the settings endpoint.,technical
+"The notifications page has been loading forever, it never finishes.",technical
+"I can't sync my data between devices, settings shows old info.",technical
+"I can't sync my data between devices, billing shows old info.",technical
+Uploads to integrations keep failing at around 80 percent.,technical
+The mobile app freezes on the billing tab on Android.,technical
+Dark mode breaks the layout on the analytics dashboard.,technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+The API returns a timeout when I call the dashboard endpoint.,technical
+Someone else may have accessed my account without permission.,account
+"The analytics page has been loading forever, it never finishes.",technical
+My username shows up wrong on the analytics page.,account
+Do you have a roadmap for upcoming notifications improvements?,general
+"Since the redesign, the calendar tab is completely unresponsive on iOS 18.",technical
+Dark mode breaks the layout on the export dashboard.,technical
+The API returns a 500 Internal Server when I call the dashboard endpoint.,technical
+The mobile app freezes on the integrations tab on Android.,technical
+Is there a discount available for annual Pro billing?,billing
+The mobile app freezes on the dashboard tab on Android.,technical
+Can you merge my two accounts under one email address?,account
+I want to delete my account and all associated data.,account
+My username shows up wrong on the reports page.,account
+The mobile app freezes on the calendar tab on Android.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+"Since the redesign, the dashboard tab is completely unresponsive on iOS 18.",technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+Why did my subscription price change from $19.99 to $17.50?,billing
+Push notifications for analytics stopped working after the update.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+The app crashes every time I try to open the integrations screen.,technical
+Can you merge my two accounts under one email address?,account
+Can you merge my two accounts under one email address?,account
+The API returns a 404 Not Found when I call the export endpoint.,technical
+I'd like to suggest an improvement to the dashboard workflow.,general
+Can you merge my two accounts under one email address?,account
+I need a refund for the Enterprise plan I cancelled last week.,billing
+"I can't sync my data between devices, notifications shows old info.",technical
+What's the difference between the Pro and enterprise plans?,general
+I need a refund for the Pro plan I cancelled last week.,billing
+Why did my subscription price change from $49.00 to $24.99?,billing
+Uploads to dashboard keep failing at around 80 percent.,technical
+"Since the redesign, the settings tab is completely unresponsive on iOS 18.",technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+The API returns a 500 Internal Server when I call the analytics endpoint.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+"The export page has been loading forever, it never finishes.",technical
+I forgot my password and the reset email never arrives.,account
+How do I enable two-factor authentication on my account?,account
+I need a refund for the Team plan I cancelled last week.,billing
+Search in integrations returns no results even for exact matches.,technical
+Uploads to dashboard keep failing at around 80 percent.,technical
+I was charged twice for my Team subscription this month.,billing
+Push notifications for calendar stopped working after the update.,technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+How do I provide feedback about the Enterprise pricing tiers?,general
+"Thanks for the quick help yesterday, closing this ticket.",general
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+Are there any webinars coming up about settings?,general
+The API returns a 500 Internal Server when I call the analytics endpoint.,technical
+My payment failed but the app still shows I owe $12.50.,billing
+"I can't sync my data between devices, messaging shows old info.",technical
+I want to delete my account and all associated data.,account
+The API returns a 403 Forbidden when I call the analytics endpoint.,technical
+I was charged twice for my Team subscription this month.,billing
+I need to change the email linked to my account.,account
+How do I enable two-factor authentication on my account?,account
+I want to downgrade from Basic to save money.,billing
+Uploads to analytics keep failing at around 80 percent.,technical
+Push notifications for reports stopped working after the update.,technical
+I need a refund for the Team plan I cancelled last week.,billing
+"I can't sync my data between devices, messaging shows old info.",technical
+"I can't sync my data between devices, settings shows old info.",technical
+"Thanks for the quick help yesterday, closing this ticket.",general
+Please transfer ownership of my workspace to a teammate.,account
+Someone else may have accessed my account without permission.,account
+Can you point me to documentation for the billing API?,general
+Uploads to notifications keep failing at around 80 percent.,technical
+The app crashes every time I try to open the integrations screen.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+I'm getting a timeout error when I try to log in.,technical
+Dark mode breaks the layout on the export dashboard.,technical
+Just wanted to say the new settings update looks great!,general
+How do I provide feedback about the Basic pricing tiers?,general
+The invoice for last month doesn't match what I was quoted.,billing
+My username shows up wrong on the dashboard page.,account
+Please transfer ownership of my workspace to a teammate.,account
+Push notifications for dashboard stopped working after the update.,technical
+The mobile app freezes on the settings tab on Android.,technical
+The API returns a 500 Internal Server when I call the integrations endpoint.,technical
+Dark mode breaks the layout on the messaging dashboard.,technical
+Can you point me to documentation for the billing API?,general
+Uploads to settings keep failing at around 80 percent.,technical
+"I can't sync my data between devices, reports shows old info.",technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+Is there a discount available for annual Pro billing?,billing
+Dark mode breaks the layout on the notifications dashboard.,technical
+Someone else may have accessed my account without permission.,account
+"I can't sync my data between devices, settings shows old info.",technical
+I'm getting a timeout error when I try to log in.,technical
+The app crashes every time I try to open the settings screen.,technical
+Just wanted to say the new messaging update looks great!,general
+I need to change the email linked to my account.,account
+"I can't sync my data between devices, billing shows old info.",technical
+Uploads to dashboard keep failing at around 80 percent.,technical
+I need a refund for the Pro plan I cancelled last week.,billing
+The app crashes every time I try to open the export screen.,technical
+Is there a discount available for annual Team billing?,billing
+I'm getting a 500 Internal Server error when I try to log in.,technical
+Can you merge my two accounts under one email address?,account
+I need to change the email linked to my account.,account
+"Since the redesign, the analytics tab is completely unresponsive on iOS 18.",technical
+The API returns a 500 Internal Server when I call the notifications endpoint.,technical
+Search in analytics returns no results even for exact matches.,technical
+Push notifications for reports stopped working after the update.,technical
+How do I enable two-factor authentication on my account?,account
+"Since the redesign, the billing tab is completely unresponsive on iOS 18.",technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+"The calendar page has been loading forever, it never finishes.",technical
+The mobile app freezes on the notifications tab on Android.,technical
+Push notifications for integrations stopped working after the update.,technical
+I'm getting a 404 Not Found error when I try to log in.,technical
+How do I provide feedback about the Enterprise pricing tiers?,general
+The mobile app freezes on the calendar tab on Android.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+The invoice for June doesn't match what I was quoted.,billing
+Push notifications for export stopped working after the update.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+Search in analytics returns no results even for exact matches.,technical
+Dark mode breaks the layout on the dashboard dashboard.,technical
+I was billed after cancelling my Basic subscription.,billing
+Someone else may have accessed my account without permission.,account
+Search in integrations returns no results even for exact matches.,technical
+Uploads to analytics keep failing at around 80 percent.,technical
+I need to change the email linked to my account.,account
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+I want to downgrade from Enterprise to save money.,billing
+The app crashes every time I try to open the dashboard screen.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+"Since the redesign, the settings tab is completely unresponsive on iOS 18.",technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+"I can't update my profile picture, it keeps failing to upload.",account
+I need to change the email linked to my account.,account
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+"Since the redesign, the messaging tab is completely unresponsive on iOS 18.",technical
+"I can't sync my data between devices, dashboard shows old info.",technical
+Please transfer ownership of my workspace to a teammate.,account
+The app crashes every time I try to open the billing screen.,technical
+I'm getting a 500 Internal Server error when I try to log in.,technical
+The mobile app freezes on the billing tab on Android.,technical
+I want to delete my account and all associated data.,account
+Push notifications for analytics stopped working after the update.,technical
+Why did my subscription price change from $29.99 to $14.99?,billing
+"I can't update my profile picture, it keeps failing to upload.",account
+"The notifications page has been loading forever, it never finishes.",technical
+My username shows up wrong on the reports page.,account
+"I can't sync my data between devices, analytics shows old info.",technical
+Can you merge my two accounts under one email address?,account
+I was billed after cancelling my Starter subscription.,billing
+"I can't sync my data between devices, analytics shows old info.",technical
+Search in reports returns no results even for exact matches.,technical
+I need to change the email linked to my account.,account
+The app crashes every time I try to open the calendar screen.,technical
+How do I provide feedback about the Pro pricing tiers?,general
+My username shows up wrong on the integrations page.,account
+"I can't sync my data between devices, calendar shows old info.",technical
+The app crashes every time I try to open the billing screen.,technical
+Can you explain the extra $49.00 fee on my latest invoice?,billing
+Search in messaging returns no results even for exact matches.,technical
+Dark mode breaks the layout on the messaging dashboard.,technical
+What's the difference between the Team and enterprise plans?,general
+The mobile app freezes on the export tab on Android.,technical
+The mobile app freezes on the export tab on Android.,technical
+Someone else may have accessed my account without permission.,account
+"The messaging page has been loading forever, it never finishes.",technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+The app crashes every time I try to open the dashboard screen.,technical
+Uploads to analytics keep failing at around 80 percent.,technical
+The new checkout flow keeps throwing a payment gateway timeout error.,technical
+My payment failed but the app still shows I owe $49.00.,billing
+The app crashes every time I try to open the dashboard screen.,technical
+Search in billing returns no results even for exact matches.,technical
+My username shows up wrong on the dashboard page.,account
+The mobile app freezes on the reports tab on Android.,technical
+"Please update my card on file, the current one expired.",billing
+The API returns a null pointer when I call the reports endpoint.,technical
+Search in billing returns no results even for exact matches.,technical
+The app crashes every time I try to open the settings screen.,technical
+I need a refund for the Team plan I cancelled last week.,billing
+Is there a community forum where I can ask other users questions?,general
+My account got locked after too many login attempts.,account
+Push notifications for export stopped working after the update.,technical
+Your new AI assistant feature gave me an incorrect answer twice today.,technical
+The mobile app freezes on the settings tab on Android.,technical
+What's the difference between the Starter and enterprise plans?,general
+The mobile app freezes on the calendar tab on Android.,technical
+Uploads to reports keep failing at around 80 percent.,technical
+Dark mode breaks the layout on the notifications dashboard.,technical
+Push notifications for notifications stopped working after the update.,technical
+My username shows up wrong on the analytics page.,account
+The invoice for March doesn't match what I was quoted.,billing
+Dark mode breaks the layout on the reports dashboard.,technical
+I need a refund for the Team plan I cancelled last week.,billing
+Is there a discount available for annual Pro billing?,billing
+The app crashes every time I try to open the integrations screen.,technical
+I need a refund for the Starter plan I cancelled last week.,billing
+I want to delete my account and all associated data.,account
