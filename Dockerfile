@@ -9,9 +9,9 @@ FROM python:3.12-slim AS builder
 WORKDIR /build
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    build-essential=12.10ubuntu1 \
+    build-essential \
     && rm -rf /var/lib/apt/lists/*
-# Pinned per hadolint DL3008. Tradeoff worth knowing: Debian/Ubuntu apt
+# Unpinned to avoid breakage when the base debian image updates.
 # archives typically only retain the latest build-essential version for
 # a given release, so this exact pin will need bumping if the base
 # image's underlying release changes and the old version ages out —
