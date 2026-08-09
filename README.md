@@ -14,25 +14,59 @@ EC2) is implemented and tested in this repo, not just described.
 
 ## Architecture
 
-```
- data/generate_data.py            src/train.py                  src/api.py
- ┌────────────────────┐    ┌──────────────────────────┐    ┌───────────────────┐
- │ synthetic support   │──▶│ fine-tune DistilBERT      │──▶│ FastAPI /predict   │
- │ ticket dataset      │   │ log params/metrics→MLflow │   │ /health            │
- └────────────────────┘    │ register + promote model  │   └─────────┬──────────┘
-                            └──────────────┬─────────────┘             │
-                                            │                          │ serves
-                                            ▼                          ▼
-                                  MLflow Tracking + Registry     Docker container
-                                  (experiments, versions,        deployed to EC2
-                                   staging/production aliases)   by GitHub Actions
+```mermaid
+graph TD
+    classDef file fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef process fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef service fill:#e8f5e9,stroke:#388e3c,stroke-width:2px;
+    classDef ext fill:#fff3e0,stroke:#f57c00,stroke-width:2px;
 
- src/drift_monitor.py
- ┌───────────────────────────────────────────┐
- │ Evidently AI: reference vs. current data   │──▶ HTML report + JSON summary
- │ (data drift + prediction-distribution      │    (fails CI if drift > threshold)
- │  drift), runs nightly via GH Actions cron  │
- └───────────────────────────────────────────┘
+    %% Data Generation
+    subgraph Data
+        gen[data/generate_data.py]:::file
+        dataset[(Synthetic Support<br/>Ticket Dataset)]:::file
+        gen --> dataset
+    end
+
+    %% Training Pipeline
+    subgraph Training [Model Training Pipeline]
+        train[src/train.py]:::file
+        finetune[Fine-tune DistilBERT]:::process
+        eval[Evaluate & Register]:::process
+        
+        dataset --> finetune
+        finetune --> train
+        train --> eval
+    end
+
+    %% MLOps Backend
+    subgraph Registry [Model Registry & Tracking]
+        mlflow[(MLflow Tracking Server<br/>& Model Registry)]:::service
+        train -.->|Log params & metrics| mlflow
+        eval -.->|Register & Promote| mlflow
+    end
+
+    %% Serving
+    subgraph Serving [Production API]
+        api[src/api.py]:::file
+        fastapi[FastAPI Service<br/>/predict, /health]:::service
+        docker[Docker Container on EC2<br/>deployed via GitHub Actions]:::ext
+        
+        mlflow -.->|Pull production model| fastapi
+        fastapi --> api
+        api --> docker
+    end
+
+    %% Monitoring
+    subgraph Monitoring [Data Drift Monitoring]
+        drift[src/drift_monitor.py]:::file
+        evidently[Evidently AI]:::process
+        report[HTML Report &<br/>JSON Summary]:::file
+        
+        drift --> evidently
+        evidently -->|Compare Reference vs Current| report
+        report -.->|Fails CI if drift > threshold| GitHubActions
+    end
 ```
 
 ## Repo layout
